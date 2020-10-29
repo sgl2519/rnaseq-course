@@ -1,4 +1,4 @@
-# CRG RNA-seq course 2019
+# CRG RNA-seq course
 
 Data for the CRG course on RNA-seq data analysis for PhD students
 
@@ -6,4 +6,4 @@ Data for the CRG course on RNA-seq data analysis for PhD students
 
 In order to download the data run the following command:
 
-    git clone https://github.com/guigolab/rnaseq-course19
+    git clone https://github.com/guigolab/rnaseq-course
