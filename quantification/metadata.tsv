@@ -1,0 +1,13 @@
+SampleID	ExperimentID	Library_Material	Biosample_Name	Treatment	Treatment_Amount	Treatment_Duration	Library_Size	Bioreplicate	Technical_Replicate	Assembly	Annotation
+ENCFF233CZT	ENCSR632DQP	polyadenylated mRNA	A549	control	0nM	0hr	>200	4	4_1	GRCh38	V29
+ENCFF285BTU	ENCSR632DQP	polyadenylated mRNA	A549	control	0nM	0hr	>200	1	1_1	GRCh38	V29
+ENCFF904PCS	ENCSR632DQP	polyadenylated mRNA	A549	control	0nM	0hr	>200	2	2_1	GRCh38	V29
+ENCFF360GXF	ENCSR632DQP	polyadenylated mRNA	A549	control	0nM	0hr	>200	3	3_1	GRCh38	V29
+ENCFF673HCO	ENCSR924BHF	polyadenylated mRNA	A549	dexamethasone	100nM	2hr	>200	4	4_1	GRCh38	V29
+ENCFF370HFZ	ENCSR924BHF	polyadenylated mRNA	A549	dexamethasone	100nM	2hr	>200	1	1_1	GRCh38	V29
+ENCFF748SCJ	ENCSR924BHF	polyadenylated mRNA	A549	dexamethasone	100nM	2hr	>200	3	3_1	GRCh38	V29
+ENCFF682AFV	ENCSR924BHF	polyadenylated mRNA	A549	dexamethasone	100nM	2hr	>200	2	2_1	GRCh38	V29
+ENCFF838IYE	ENCSR326PTW	polyadenylated mRNA	A549	dexamethasone	100nM	4hr	>200	3	3_1	GRCh38	V29
+ENCFF650KXK	ENCSR326PTW	polyadenylated mRNA	A549	dexamethasone	100nM	4hr	>200	1	1_1	GRCh38	V29
+ENCFF681YHC	ENCSR326PTW	polyadenylated mRNA	A549	dexamethasone	100nM	4hr	>200	2	2_1	GRCh38	V29
+ENCFF443WJB	ENCSR326PTW	polyadenylated mRNA	A549	dexamethasone	100nM	4hr	>200	4	4_1	GRCh38	V29
